@@ -1,4 +1,4 @@
-# Trump tweet generator
+# Trump's tweet generator
 Simple notebook with Hugging Face GPT2 model fine-tuned on Trump's insulting tweets datset from Kaggle. 
 
 ## Data 
